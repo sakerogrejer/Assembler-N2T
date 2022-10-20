@@ -5,4 +5,4 @@
 
 @def generate_rss = false
 
-@def prepath = "Franklin"
+@def prepath = "asm"
