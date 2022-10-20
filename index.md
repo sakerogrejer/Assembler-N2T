@@ -14,8 +14,6 @@
 
 ## Create a table of contents 
 
-\toc
-
 # Examples
 
 ## How to enter text
