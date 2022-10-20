@@ -5,4 +5,4 @@
 
 @def generate_rss = false
 
-@def prepath = "asm"
+@def prepath = "Assembler-N2T"
